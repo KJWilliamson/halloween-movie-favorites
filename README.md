@@ -1,5 +1,7 @@
 ## Favorite Halloween Movies. Built with HTML, CSS, and Javascript.
-* User enters a movie title and if it's in the database a gif will show up on the screen from the movie the user entered. 
+* The majority of these movies are not necessarily family-friendly but also not scary.
+* User enters a movie title and if it's in the database a gif will show up on the screen sometimes with text from the movie the user entered. 
+* If user is on a laptop/desktop the button or the enter key can be used.
 
 
 https://movies-for-halloween.netlify.app/
