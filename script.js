@@ -323,6 +323,151 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrd0hXMU2cKlrCMHr4dJNWePfg3vUxDo-xjPuz75lgjtytC788FkdElb8pIHPFpheUo4&usqp=CAU')";
         
+    } else if (halloween_movies === "sleepy hollow") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/LL3h.gif')";
+        
+    } else if (halloween_movies === "Trick or Treat") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/Mjog.gif')";
+        
+    } else if (halloween_movies === "ginger snaps") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://68.media.tumblr.com/baef8a33ac41cae44312fc997f7dceb5/tumblr_og36607Z351ut1d6co1_540.gif')";
+        
+    } else if (halloween_movies === "cursed") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://j.gifs.com/v9zL3w.gif')";
+        
+    } else if (halloween_movies === "what ever happened to baby jane") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/Hqdf.gif')";
+        
+    } else if (halloween_movies === "bad moon") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/EntireAggravatingCow-max-1mb.gif')";
+        
+    } else if (halloween_movies === "witches of eastwick") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/cb7e1e6958b7a00d0c32657a745140e5/tumblr_pypy0eLtWz1w60skwo5_400.gifv')";
+        
+    } else if (halloween_movies === "practical magic") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://img.buzzfeed.com/buzzfeed-static/static/2018-10/16/12/asset/buzzfeed-prod-web-03/anigif_sub-buzz-18192-1539708669-1.gif')";
+        
+    } else if (halloween_movies === "vertigo") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/8457372691e81b2a533fd145dc0e984f/tumblr_nj9bcytwlr1tj9j4ko1_500.gif')";
+        
+    } else if (halloween_movies === "venom (2005)") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://pa1.narvii.com/7079/108f3584f71bc35419e80d58eceabb2a1b894e29r1-632-264_hq.gif')";
+        
+    } else if (halloween_movies === "teaching mrs. tingle") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/MqkD.gif')";
+        
+    } else if (halloween_movies === "stoker") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/AjY4.gif')";
+        
+    } else if (halloween_movies === "slither") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('http://31.media.tumblr.com/acc56e06940aad8375b18ed47be5d7a8/tumblr_n0yk6csLcG1rp0vkjo1_500.gif')";
+        
+    } else if (halloween_movies === "splinter") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://media.giphy.com/media/xT9DPhFmbaH0a9oNK8/giphy.gif')";
+        
+    } else if (halloween_movies === "the sixth sense") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/ba1ad7611194cde8b29d2ffe8ec2eb14/tumblr_n4q4yld8kZ1s9816mo5_r1_500.gif')";
+        
+    } else if (halloween_movies === "rear window") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/GrandioseFirmGermanpinscher-size_restricted.gif')";
+        
+    } else if (halloween_movies === "the cell") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://c.tenor.com/QwtGl6LDJMYAAAAC/the-cell-jennifer-lopez.gif')";
+        
+    } else if (halloween_movies === "the dead don't die") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://c.tenor.com/oSEkkEDRGycAAAAC/cut-officer-ronnie-peterson.gif')";
+        
+    } else if (halloween_movies === "werewolves within") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/9f88931fdcced0275488060ac11c6f9f/75eb0e7e1867ba64-0c/s540x810/50bb2f91f3ee2d018b5fa9043522f822e466cd97.gif')";
+        
+    } else if (halloween_movies === "a quiet place") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/349923432ff95819056458b7c67a5b88/tumblr_ozji63J72K1svgb0ro2_540.gifv')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
     } else if (halloween_movies === "") {
         
         document.querySelector("#placeToSee").innerText = "";
