@@ -423,50 +423,75 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/349923432ff95819056458b7c67a5b88/tumblr_ozji63J72K1svgb0ro2_540.gifv')";
         
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "copycat") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/a9b67199eb657a5e12981484e3a92cd5/b85185dfd8acfc51-28/s540x810/63f326bb8e2c0778a40b88281ab8c7cece9b4a5f.gifv')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "cloverfield") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://i1.wp.com/i.imgur.com/mImXrB6.gif?w=740')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "chernobyl diaries") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/SourAncientIchthyosaurs-size_restricted.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "6 souls") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/3CP0.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "the dark tower") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/DearAncientDamselfly-max-1mb.gif')";
+        
+    } else if (halloween_movies === "the bone collector") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/34e953bf907683482f5023bc09a7e011/tumblr_oxt298sl0P1wph2x7o1_1280.gif')";
+        
+    } else if (halloween_movies === "disturbia") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://qph.cf2.quoracdn.net/main-qimg-4919cdb6fdbe8f3736b7763090688738')";
+        
+    } else if (halloween_movies === "dreamcatcher") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/AyJ6.gif')";
+        
+    } else if (halloween_movies === "end of days") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/2519ca0fcb5c9389960b56185c876f63/tumblr_odcu730XXA1u4mt3bo1_500.gifv')";
+        
+    } else if (halloween_movies === "the final girls" || halloween_movies === "final girls") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://pa1.narvii.com/6531/0ec4cd5954a9e044d9ef83b4c5a46b5fbcc207b6_hq.gif')";
+        
+    } else if (halloween_movies === "the frighteners") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/34fe6f5e4e282b447839fac266efa279/tumblr_mipf81uJrH1qfr6udo1_500.gif')";
+        
+    } else if (halloween_movies === "from dusk till dawn") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://giffiles.alphacoders.com/242/24221.gif')";
+        
+    } else if (halloween_movies === "the gift") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/ca396d875d00728702d8b10964beafb8/tumblr_inline_nsu0nsCfmy1tp2efg_1280.gifv')";
+        
+    } else if (halloween_movies === "the hunger") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/lRb.gif')";
         
     } else if (halloween_movies === "") {
         
