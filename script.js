@@ -163,60 +163,165 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://pa1.narvii.com/7025/12f74fe51943b99ca7f4c149cb519d4192591caer1-400-225_hq.gif')";
         
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "misery") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://media.tenor.com/Vemqtnprvd0AAAAC/kathy-bates-misery.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "the dark half") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('http://www.cinemacats.com/wp-content/uploads/gifs/darkhalfscream.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "secret window") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/RareApprehensiveGrayfox-size_restricted.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "alligator") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/1fbbd914b0fdc7e76ef9524bd63fdaf2/d8af5db264ca3d72-9f/s500x750/641e545418d0018b8cc9619927430df093ba5a09.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "hell house llc") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://miro.medium.com/max/1280/1*tts8eG_9F1gR4z820CY6UA.gif')";
         
-    } else if (halloween_movies === "") {
-        
-        document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
-        
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "grave encounters") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://i0.wp.com/thehorrorsyndicate.com/wp-content/uploads/2020/09/tumblr_1202a212063751a08d097739868e00fe_d63b57ab_500.gif?resize=500%2C277')";
+        
+    } else if (halloween_movies === "grave encounters 2") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('http://24.media.tumblr.com/e946be2ef1b6e50eaead2db222360b63/tumblr_n6cm29NAGy1rp0vkjo2_500.gif')";
+        
+    } else if (halloween_movies === "the houses october built") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://images.squarespace-cdn.com/content/v1/5637f9fbe4b0baa6d85a1011/1508089572029-L298TMU37LOUAYOUEQIP/tumblr_ndvm2lMJ1B1r7epgpo1_400.gif')";
+        
+    } else if (halloween_movies === "hell house llc 2") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/68175a04a1bb71f1d94e5141106c5be0/5137fb5e07cbbcd3-eb/s500x750/f29681de8081cb5341c9615ecd0a7470f1c7fa53.gif')";
+        
+    } else if (halloween_movies === "house") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/DeterminedDelectableIzuthrush-size_restricted.gif')";
+        
+    } else if (halloween_movies === "house 2") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('http://ouchmyego.com/wp-content/uploads/2017/10/house2.gif')";
+        
+    } else if (halloween_movies === "the little girl who lives down the lane") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/c179ff808a95c213b464c9eb0b68b7a8/tumblr_nvsggu8JsU1up42jgo2_500.gif')";
+        
+    } else if (halloween_movies === "the believers") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://scarletthefilmmagazine.files.wordpress.com/2019/06/9agece.gif')";
+        
+    } else if (halloween_movies === "the serpent and the rainbow") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://www.allhorror.com/public/uploads/2020/07/tumblr_ngziyuxJdj1u4mt3bo1_400[1].gifv')";
+        
+    } else if (halloween_movies === "the brood") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/b39dac74bfdb29df6ffe20839e84df3c/tumblr_p4pu5gcRxl1worx1go2_500.gif')";
+        
+    } else if (halloween_movies === "terror train") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/8ab553d6020a394e5359e16a815f1d45/tumblr_oy5lpatOZc1vrq0m3o4_r1_500.gif')";
+        
+    } else if (halloween_movies === "prom night") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/UzId.gif')";
+        
+    } else if (halloween_movies === "silence of the lambs") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/Arws.gif')";
+        
+    } else if (halloween_movies === "urban legend") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://static.wikia.nocookie.net/degrassi/images/5/53/Urban_Legend_gif.gif/revision/latest?cb=20131127174312')";
+        
+    } else if (halloween_movies === "castle freak") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/4bf9906c70b4ae1a6bbc1056b2b04c1d/71712015731ca2ed-86/s500x750/db8767f358556460fe098478767135dee908f04a.gif')";
+        
+    } else if (halloween_movies === "food of the gods") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/b3c52bd202bcab9403f1f93e0582d98a/19bc23e5a059d9cd-a0/s540x810/cb9601f50c7f10444c44c468a506af97e0af1466.gif')";
+        
+    } else if (halloween_movies === "deliver us from evil") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/GuG8.gif')";
+        
+    } else if (halloween_movies === "frogs") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/DishonestHeavyHyrax-size_restricted.gif')";
+        
+    } else if (halloween_movies === "willard") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/JH5W.gif')";
+        
+    } else if (halloween_movies === "the exorcist 3") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://pa1.narvii.com/5993/45706f199d008d1d8f9854f935693cfa722af3ac_hq.gif')";
+        
+    } else if (halloween_movies === "the exorcist 2") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('http://33.media.tumblr.com/e99119b6a20700934daa42ec43f02851/tumblr_ndg5f7RGcY1rp0vkjo2_500.gif')";
+        
+    } else if (halloween_movies === "killer klowns from outer space") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/674164befc2c6788357ecbbd97860404/58449f1f41cb9a10-67/s400x600/874961e5d9de08251b3084944680cfd781b72975.gif')";
+        
+    } else if (halloween_movies === "burnt offerings") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://images.squarespace-cdn.com/content/v1/5aa6f3f14611a01d7ccce033/1543905828602-CPXSHPBIV2HRWQWS9Y0J/image-asset.gif')";
+        
+    } else if (halloween_movies === "ghost story") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://moviesfilmsandflix.files.wordpress.com/2019/02/13yarabydva036.gif')";
+        
+    } else if (halloween_movies === "dial m for murder") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/RepentantLimpingEyelashpitviper-size_restricted.gif')";
+        
+    } else if (halloween_movies === "pumpkinhead") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/525940c53970c05c9f41c4899e6cff25/tumblr_phdtywpvp51rs6hqwo1_500.gifv')";
+        
+    } else if (halloween_movies === "shaun of the dead") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrd0hXMU2cKlrCMHr4dJNWePfg3vUxDo-xjPuz75lgjtytC788FkdElb8pIHPFpheUo4&usqp=CAU')";
         
     } else if (halloween_movies === "") {
         
