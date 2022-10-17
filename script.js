@@ -493,6 +493,91 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/lRb.gif')";
         
+    } else if (halloween_movies === "skeleton key") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.pinimg.com/originals/de/4a/06/de4a061b6a306ffeefff8c7e27bcc75d.gif')";
+        
+    } else if (halloween_movies === "twilight zone" || halloween_movies === "twilight zone the movie") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.pinimg.com/originals/20/12/b2/2012b2a7f8c3acc2f4198074681f6f7c.gif')";
+        
+    } else if (halloween_movies === "tremors") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.pinimg.com/originals/e0/1e/97/e01e9797321512dc713e9c80b6dd9d71.gif')";
+        
+    } else if (halloween_movies === "resident evil") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://data.whicdn.com/images/236339469/original.gif')";
+        
+    } else if (halloween_movies === "the people under the stairs" || halloween_movies === "people under the stairs") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/1f3282b6fce5e61899bd1470df374dab/tumblr_p20k5wyvbZ1wadukvo2_500.gifv')";
+        
+    } else if (halloween_movies === "paranormal activity") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://media0.giphy.com/media/mX3m0M8MQFUiociNxW/giphy.gif')";
+        
+    } else if (halloween_movies === "paranormal activity 2") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/10/PA2-Couch-Shadow.gif')";
+        
+    } else if (halloween_movies === "paranormal activity 3") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://gbhbl.files.wordpress.com/2016/03/paranormal-activity-pic-9.gif')";
+        
+    } else if (halloween_movies === "paranormal activity 4") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/AgonizingDigitalBlueshark-size_restricted.gif')";
+        
+    } else if (halloween_movies === "paranormal activity: the marked ones") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/94f3083516c17853ca0c0772e68a1441/tumblr_ndtp1qdvuo1rpjekfo1_500.gif')";
+        
+    } else if (halloween_movies === "paranormal activity: the ghost dimension") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/4eZV.gif')";
+        
+    } else if (halloween_movies === "paranormal activity: next of kin") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/1a3631c4fd6af5e72a4605ecc50835db/792eb3e6f0b46a38-88/s540x810/98a041166a6261fe04ca87f5d7fe77cbc75441dc.gifv')";
+        
+    } else if (halloween_movies === "the night house") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/d7fb984155cc0d8207d4fa56aca5ca11/4ba6d458a2e081e2-4e/s540x810/e394910cad1c5594012126e5c519e276c183c9cd.gif')";
+        
+    } else if (halloween_movies === "doctor sleep") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://media2.giphy.com/media/jTHTkMzWfaedlxphhE/giphy-downsized-large.gif?cid=6c09b95296ff4778f9744ad29bf062e29a095d7b88a4154e&rid=giphy-downsized-large.gif&ct=g')";
+        
+    } else if (halloween_movies === "freaky") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://c.tenor.com/Yq1sgFM0RN0AAAAC/freaky-vince-vaughn.gif')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
     } else if (halloween_movies === "") {
         
         document.querySelector("#placeToSee").innerText = "";
