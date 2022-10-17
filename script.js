@@ -568,6 +568,31 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://c.tenor.com/Yq1sgFM0RN0AAAAC/freaky-vince-vaughn.gif')";
         
+    } else if (halloween_movies === "the hunt") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/689baaf0ae8e26b9b0102c15aa1df42e/89d3e834970ef564-33/s540x810/5ceeab4c7e43dd2cb1e04bcadf83134cae11cf47.gifv')";
+        
+    } else if (halloween_movies === "the invisible man") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://images.squarespace-cdn.com/content/v1/58e45a52ebbd1a24417fdf93/1590620307314-ELQXO6JI67VOZSFQXB5V/invisible+man+2020.gif')";
+        
+    } else if (halloween_movies === "jaws") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://images.squarespace-cdn.com/content/v1/56cdc4478259b5c112bb2285/1626394430808-794LV96AQRL21VKXAD0D/1-16.gif')";
+        
+    } else if (halloween_movies === "jaws 2") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://i.pinimg.com/originals/d2/6e/f0/d26ef04c074054b33dcc058664a8fe9e.gif')";
+        
+    } else if (halloween_movies === "jaws 3d") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/FlimsyLateAstrangiacoral-size_restricted.gif')";
+        
     } else if (halloween_movies === "") {
         
         document.querySelector("#placeToSee").innerText = "";
