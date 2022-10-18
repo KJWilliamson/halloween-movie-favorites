@@ -613,7 +613,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mouth-1523372503.gif?crop=1xw:1xh;center,top&resize=480:*')";
         
-    } else if (horror === "return of the living dead") {
+    } else if (halloween_movies === "return of the living dead") {
         document.querySelector("#placeToSee").innerText= "Braaaiiins";
 
         document.querySelector("body").style.backgroundImage = "url('https://media0.giphy.com/media/6DKarCyCfJN84/giphy.gif?cid=ecf05e47sd0nkk6dgel9kouobnd1v7jzz668p1prmpu7hhvb&rid=giphy.gif&ct=g')";
