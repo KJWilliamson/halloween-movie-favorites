@@ -593,6 +593,41 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/FlimsyLateAstrangiacoral-size_restricted.gif')";
         
+    } else if (halloween_movies === "jaws the revenge") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('http://33.media.tumblr.com/1c34339c91fe354c927b468b1b8a51ba/tumblr_nqtdnb1qXO1rp0vkjo1_500.gif')";
+        
+    } else if (halloween_movies === "unfriended") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/ShortWelltodoJohndory-size_restricted.gif')";
+        
+    } else if (halloween_movies === "ready or not") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://c.tenor.com/ihuKthdyXTsAAAAC/ready-or-not.gif')";
+        
+    } else if (halloween_movies === "the meg") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mouth-1523372503.gif?crop=1xw:1xh;center,top&resize=480:*')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
+    } else if (halloween_movies === "") {
+        
+        document.querySelector("#placeToSee").innerText = "";
+        document.querySelector("body").style.backgroundImage = "url('')";
+        
     } else if (halloween_movies === "") {
         
         document.querySelector("#placeToSee").innerText = "";
