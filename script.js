@@ -618,10 +618,10 @@ function check() {
 
         document.querySelector("body").style.backgroundImage = "url('https://media0.giphy.com/media/6DKarCyCfJN84/giphy.gif?cid=ecf05e47sd0nkk6dgel9kouobnd1v7jzz668p1prmpu7hhvb&rid=giphy.gif&ct=g')";
     
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "dreamscape") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://media4.giphy.com/media/eJEUBmxL8n3nW/giphy.gif')";
         
     } else if (halloween_movies === "") {
         
