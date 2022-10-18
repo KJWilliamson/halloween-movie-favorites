@@ -1,7 +1,7 @@
 body {
-    margin-top: 400px;
+    margin-top: 370px;
     background-repeat: no-repeat;
-    background-size: 1488px;
+    background-size: 100%;
     background-color: black;
     color: white;
 }
@@ -57,7 +57,7 @@ h2 {
 
 
 
-@media screen and (max-width: 800px) {
+/* @media screen and (max-width: 800px) {
 
 
     body {
@@ -69,5 +69,5 @@ h2 {
         font-size: 1.5rem;
     }
 
-}
+} */
 
