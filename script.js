@@ -1,7 +1,7 @@
 document.querySelector("#check").addEventListener("click", check);
 let fav_halloween_movies = document.getElementById("halloween_movies");
 fav_halloween_movies.addEventListener('keydown', function(e) {
-    if (e.keyCode === 13 || e.key === 13) {
+    if (e.key === "Enter" || e.key === "NumpadEnter") {
         e.preventDefault();
         document.getElementById("check").click();
     }

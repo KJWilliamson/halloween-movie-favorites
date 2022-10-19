@@ -6,7 +6,20 @@ body {
     color: white;
 }
 
+::-webkit-input-placeholder {
+    font-weight: bolder;
+    color: red;
+  }
+  
+  label {
+    font-weight: bolder;
+  }
+  
+  input {
+    font-weight: bolder;
+  }
 
+  
 form {
   text-align: center;
   color: white;
