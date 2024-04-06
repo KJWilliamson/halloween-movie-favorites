@@ -151,7 +151,7 @@ function check() {
     } else if (halloween_movies === "fright night") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/G4A5.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/2beeeeb9f214924e6a05b20573646947/350d005e82d3c29f-e1/s500x750/c52586d1c24b1232d656575b61c3e6b1e5e725c0.gif')";
         
     } else if (halloween_movies === "childs play" || halloween_movies === "child's play") {
         
