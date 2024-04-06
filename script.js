@@ -58,7 +58,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/5415a66821630221c9ffb7b235f9293c/3d452f7bf74a64e7-ea/s540x810/ee73a2e44d4f02e08ef6c918dcc0c0b00a17a925.gif')";
         
-    } else if (halloween_movies === "halloween (2018)" || halloween_movies === "Halloween 2018") {
+    } else if (halloween_movies === "halloween (2018)" || halloween_movies === "halloween 2018") {
         
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://images.gr-assets.com/hostedimages/1604172494ra/30315877.gif')";
@@ -183,7 +183,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/1fbbd914b0fdc7e76ef9524bd63fdaf2/d8af5db264ca3d72-9f/s500x750/641e545418d0018b8cc9619927430df093ba5a09.gif')";
         
-    } else if (halloween_movies === "hell house LLC" || halloween_movies === "hell house) {
+    } else if (halloween_movies === "hell house LLC" || halloween_movies === "hell house") {
         
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://miro.medium.com/max/1280/1*tts8eG_9F1gR4z820CY6UA.gif')";
