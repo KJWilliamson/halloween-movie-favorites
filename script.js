@@ -86,7 +86,7 @@ function check() {
     } else if (halloween_movies === "april fool's" || halloween_movies === "april fools") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/ZKD.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/6290d20ed63d6d766c4978de04da7d9d/7346973852e115a7-55/s540x810/343949c2f2d6b071b8bcdce9bb288509c1fa6f57.gifv')";
         
     } else if (halloween_movies === "dolls") {
         
