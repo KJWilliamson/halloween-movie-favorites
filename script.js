@@ -41,7 +41,7 @@ function check() {
     } else if (halloween_movies === "halloween 2") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/HeavenlyRapidBighornsheep-max-1mb.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://j.gifs.com/O7JG1r@large.gif?download=true')";
         
     } else if (halloween_movies === "halloween 3") {
         
