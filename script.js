@@ -56,7 +56,7 @@ function check() {
     } else if (halloween_movies === "halloween 5") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/DistinctEasyAmericanriverotter-max-1mb.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/5415a66821630221c9ffb7b235f9293c/3d452f7bf74a64e7-ea/s540x810/ee73a2e44d4f02e08ef6c918dcc0c0b00a17a925.gif')";
         
     } else if (halloween_movies === "halloween (2018)") {
         
