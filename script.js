@@ -173,17 +173,17 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('http://www.cinemacats.com/wp-content/uploads/gifs/darkhalfscream.gif')";
         
-    } else if (halloween_movies === "secret window") {
+    } else if (halloween_movies === "thanksgiving") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/RareApprehensiveGrayfox-size_restricted.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://media4.giphy.com/media/TZqVdctRfz6x68lhhL/giphy.gif?cid=6c09b952refv7v57qm332xpve3x718h44wr35tk4cubru17i&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g')";
         
     } else if (halloween_movies === "alligator") {
         
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/1fbbd914b0fdc7e76ef9524bd63fdaf2/d8af5db264ca3d72-9f/s500x750/641e545418d0018b8cc9619927430df093ba5a09.gif')";
         
-    } else if (halloween_movies === "hell house llc") {
+    } else if (halloween_movies === "hell house LLC" || halloween_movies === "hell house) {
         
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://miro.medium.com/max/1280/1*tts8eG_9F1gR4z820CY6UA.gif')";
@@ -203,7 +203,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://images.squarespace-cdn.com/content/v1/5637f9fbe4b0baa6d85a1011/1508089572029-L298TMU37LOUAYOUEQIP/tumblr_ndvm2lMJ1B1r7epgpo1_400.gif')";
         
-    } else if (halloween_movies === "hell house llc 2") {
+    } else if (halloween_movies === "hell house llc 2" || halloween_movies === "hell house 2") {
         
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/68175a04a1bb71f1d94e5141106c5be0/5137fb5e07cbbcd3-eb/s500x750/f29681de8081cb5341c9615ecd0a7470f1c7fa53.gif')";
@@ -211,7 +211,7 @@ function check() {
     } else if (halloween_movies === "house") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/DeterminedDelectableIzuthrush-size_restricted.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/be42f0a9c565bd6f1fe7022a7fa47333/bed21c356a800b3b-f2/s500x750/784732a1d44253a677ee5967e909f3398a3e11c9.gif')";
         
     } else if (halloween_movies === "house 2") {
         
@@ -231,7 +231,7 @@ function check() {
     } else if (halloween_movies === "the serpent and the rainbow") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://www.allhorror.com/public/uploads/2020/07/tumblr_ngziyuxJdj1u4mt3bo1_400[1].gifv')";
+        document.querySelector("body").style.backgroundImage = "url('https://media4.giphy.com/media/UsGwtlxUcgAT2uZw2C/giphy.gif?cid=6c09b952gola1zflcbwsvxwifsjeilglofpr8lt659kdb6z8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g')";
         
     } else if (halloween_movies === "the brood") {
         
