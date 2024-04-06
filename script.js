@@ -68,10 +68,10 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://i.pinimg.com/originals/3c/ee/ef/3ceeef6ffa13c284d4f84ce174fa87b2.gif')";
         
-    } else if (halloween_movies === "Halloween Resurrection") {
+    } else if (halloween_movies === "mama") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://33.media.tumblr.com/8f1825ba86d07aca92d7744a21aac853/tumblr_naxn7zRfsM1rp0vkjo1_500.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/d259424f44dd89266d176317c6253658/tumblr_onfk9sZXCA1ra4318o2_540.gifv')";
         
     } else if (halloween_movies === "sinister") {
         
