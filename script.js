@@ -623,10 +623,10 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://media4.giphy.com/media/eJEUBmxL8n3nW/giphy.gif')";
         
-    } else if (halloween_movies === "") {
+    } else if (halloween_movies === "poltergeist") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('')";
+        document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/b60785547fa3b092f896512ae7d19c37/d7141a9d440cfd13-39/s540x810/68d2c1543a8621c785481cbf2368a2372b2835ca.gif')";
         
     } else if (halloween_movies === "") {
         
