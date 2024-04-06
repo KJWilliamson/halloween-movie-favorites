@@ -58,7 +58,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://64.media.tumblr.com/5415a66821630221c9ffb7b235f9293c/3d452f7bf74a64e7-ea/s540x810/ee73a2e44d4f02e08ef6c918dcc0c0b00a17a925.gif')";
         
-    } else if (halloween_movies === "halloween (2018)") {
+    } else if (halloween_movies === "halloween (2018)" || halloween_movies === "Halloween 2018") {
         
         document.querySelector("#placeToSee").innerText = "";
         document.querySelector("body").style.backgroundImage = "url('https://images.gr-assets.com/hostedimages/1604172494ra/30315877.gif')";
@@ -101,7 +101,7 @@ function check() {
     } else if (halloween_movies === "runaway") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://i.gifer.com/Swa7.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://i.makeagif.com/media/3-02-2023/OvB82g.gif')";
         
     } else if (halloween_movies === "night of the demons") {
         
