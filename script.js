@@ -256,7 +256,7 @@ function check() {
     } else if (halloween_movies === "urban legend") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://static.wikia.nocookie.net/degrassi/images/5/53/Urban_Legend_gif.gif/revision/latest?cb=20131127174312')";
+        document.querySelector("body").style.backgroundImage = "url('https://37.media.tumblr.com/289bc44d67fd6d570718839368108ea4/tumblr_n6p8a0grHt1rp0vkjo1_500.gif')";
         
     } else if (halloween_movies === "castle freak") {
         
