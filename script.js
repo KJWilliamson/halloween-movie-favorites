@@ -136,7 +136,7 @@ function check() {
     } else if (halloween_movies === "silver bullet") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://c.tenor.com/zRGEZfJd__4AAAAC/silver-bullet-1985.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://images.gr-assets.com/hostedimages/1514529809ra/24787678.gif')";
         
     } else if (halloween_movies === "lake placid") {
         
