@@ -71,7 +71,7 @@ function check() {
     } else if (halloween_movies === "Halloween Resurrection") {
         
         document.querySelector("#placeToSee").innerText = "";
-        document.querySelector("body").style.backgroundImage = "url('https://i.pinimg.com/originals/8f/cd/8d/8fcd8dc98669088270ba3efe24a9cf0a.gif')";
+        document.querySelector("body").style.backgroundImage = "url('https://33.media.tumblr.com/8f1825ba86d07aca92d7744a21aac853/tumblr_naxn7zRfsM1rp0vkjo1_500.gif')";
         
     } else if (halloween_movies === "sinister") {
         
